@@ -1,7 +1,7 @@
 <?php
 // Buku tamu (aplikasi acuan P5 sampai Tugas Besar)
 const PEMILIK = "25161562070 - Ahmad Elifia Ashari";
-const VERSI = "1.0";
+const VERSI = "1.1";
 
 // Koneksi database dari environment variable
 function db(int $timeout = 5): PDO {
